@@ -14,6 +14,7 @@ This repository documents my 15-day Python learning challenge. I am practising P
 | Day | Topics | Status |
 |---|---|---|
 | Day 1 | Introduction, variables, data types, input and type casting | Completed |
+| Day 2 | Boolean values, comparison operators, if-else, and elif     | Completed |
 
 
 ## Technologies
