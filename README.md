@@ -18,7 +18,7 @@ Day 1| Introduction, variables, data types, input and type casting| Completed
 Day 2| Boolean values, comparison operators, if-else, and elif| Completed
 Day 3| If-else, nested if-else, logical operators, eligibility checks, simple calculator, and average calculation| Completed
 Day 4| For loops, range(), strings, lists, multiplication tables, nested loops, and counting| Completed
-Day 5| Python output prediction, operators, strings, lists, loops, functions, tuples, dictionaries, exception handling, variable scope, and Boolean logic| Completed
+Day 5|  Python Find-the-Output practice — Questions 1-22 of the 100-question series; operators, strings, lists, loops, functions, tuples, dictionaries, exception handling, variable scope, and Boolean logic| Completed
 
 Day 5 Practice Summary
 
@@ -27,6 +27,10 @@ Day 5 Practice Summary
 - Improved understanding of lists, functions, and variable scope.
 - Practised Boolean expressions and logical operators.
 - Reviewed mistakes to strengthen Python fundamentals.
+
+
+| Day 6 | Python Find-the-Output practice — Questions 23–42 of the 100-question series; functions, loops, lists, dictionaries, strings, slicing, comprehensions, and conditional logic | Completed |
+
 
 Technologies
 
