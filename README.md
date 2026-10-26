@@ -30,7 +30,7 @@ Day 5 Practice Summary
 
 
 | Day 6 | Python Find-the-Output practice — Questions 23–42 of the 100-question series; functions, loops, lists, dictionaries, strings, slicing, comprehensions, and conditional logic | Completed |
-
+| Day 7 | Python Find-the-Output practice — Questions 43–50 of the 100-question series; lists, strings, functions, dictionaries, `break`, `continue`, and list mutation | Completed |
 
 Technologies
 
